@@ -1,8 +1,8 @@
-# gameTest *Breakout*
+# gameTest **Breakout**
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
-This project generates a simple game of Brealout.
+This project generates a simple game of Breakout.
 
 ## Platforms
 
